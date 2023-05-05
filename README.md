@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @regmi2
-- 👀 I’m interested in holistic well being, big bops, strategic implementation, scalable growth, and building brands that empower everyone's self-sufficiency.
+- 👋 Hi, I’m Pallav Regmi
+- 👀 I’m interested in holistic well being, big bops, strategic implementation, scalable growth, and building brands that empower individual self-sufficiency.
 - 🌱 I’m currently learning about start-ups, IPOs, business strategy, and producing big bops.
-- 💞️ I’m looking to collaborate on big data democratization through everyday devices and big bops.
+- 💞️ I’m looking to collaborate on democratization of tech solutions and big bops.
 - 📫 How to reach me - regmipallav@gmail.com.
 
 <!---
